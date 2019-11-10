@@ -1,0 +1,18 @@
+html {
+	position: relative;
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+textarea {
+	overflow: hidden;
+	display: block;
+	padding: 0.5em;
+	border-radius: 1em;
+	font-size: 1.3em;
+	border-style: solid;
+	border-width: 0.2em;
+	border-color: darksalmon;
+	outline: none;
+}
