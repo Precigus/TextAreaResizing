@@ -30,5 +30,4 @@ function initialize() {
   var textbox = document.querySelector('textarea');
   textbox.rows = minRows;
   textbox.cols = cols;
-} // document.addEventListener('DOMContentLoaded', initialize());
-// textarea.addEventListener('keydown', resizeTextArea(this));
+}
