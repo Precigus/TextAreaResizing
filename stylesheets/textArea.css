@@ -6,6 +6,7 @@ html {
 }
 
 textarea {
+	resize: none;
 	overflow: hidden;
 	display: block;
 	padding: 0.5em;
